@@ -1,0 +1,8 @@
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HansOnDataTypes\bin\Debug\HansOnDataTypes.exe.config
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HansOnDataTypes\bin\Debug\HansOnDataTypes.exe
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HansOnDataTypes\bin\Debug\HansOnDataTypes.pdb
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HansOnDataTypes\obj\Debug\HansOnDataTypes.csproj.AssemblyReference.cache
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HansOnDataTypes\obj\Debug\HansOnDataTypes.csproj.SuggestedBindingRedirects.cache
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HansOnDataTypes\obj\Debug\HansOnDataTypes.csproj.CoreCompileInputs.cache
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HansOnDataTypes\obj\Debug\HansOnDataTypes.exe
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HansOnDataTypes\obj\Debug\HansOnDataTypes.pdb

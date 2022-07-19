@@ -1,0 +1,15 @@
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net6.0\HandsOnTypeConversion.csproj.AssemblyReference.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net6.0\HandsOnTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net6.0\HandsOnTypeConversion.AssemblyInfoInputs.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net6.0\HandsOnTypeConversion.AssemblyInfo.cs
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net6.0\HandsOnTypeConversion.csproj.CoreCompileInputs.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net6.0\HandsOnTypeConversion.exe
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net6.0\HandsOnTypeConversion.deps.json
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net6.0\HandsOnTypeConversion.runtimeconfig.json
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net6.0\HandsOnTypeConversion.dll
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\bin\Debug\net6.0\HandsOnTypeConversion.pdb
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net6.0\HandsOnTypeConversion.dll
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net6.0\refint\HandsOnTypeConversion.dll
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net6.0\HandsOnTypeConversion.pdb
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net6.0\HandsOnTypeConversion.genruntimeconfig.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnTypeConversion\obj\Debug\net6.0\ref\HandsOnTypeConversion.dll

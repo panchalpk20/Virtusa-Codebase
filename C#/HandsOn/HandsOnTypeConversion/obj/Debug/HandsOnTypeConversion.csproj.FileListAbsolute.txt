@@ -1,0 +1,8 @@
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnTypeConversion\obj\Debug\HandsOnTypeConversion.csproj.AssemblyReference.cache
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnTypeConversion\obj\Debug\HandsOnTypeConversion.csproj.SuggestedBindingRedirects.cache
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnTypeConversion\obj\Debug\HandsOnTypeConversion.csproj.CoreCompileInputs.cache
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnTypeConversion\bin\Debug\HandsOnTypeConversion.exe.config
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnTypeConversion\bin\Debug\HandsOnTypeConversion.exe
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnTypeConversion\bin\Debug\HandsOnTypeConversion.pdb
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnTypeConversion\obj\Debug\HandsOnTypeConversion.exe
+D:\Stackroute\EMID\code-sharing\C#\HandsOn\HandsOnTypeConversion\obj\Debug\HandsOnTypeConversion.pdb

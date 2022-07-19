@@ -1,0 +1,15 @@
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\obj\Debug\net6.0\HandsOnConditionalStatments.csproj.AssemblyReference.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\obj\Debug\net6.0\HandsOnConditionalStatments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\obj\Debug\net6.0\HandsOnConditionalStatments.AssemblyInfoInputs.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\obj\Debug\net6.0\HandsOnConditionalStatments.AssemblyInfo.cs
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\obj\Debug\net6.0\HandsOnConditionalStatments.csproj.CoreCompileInputs.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\bin\Debug\net6.0\HandsOnConditionalStatments.exe
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\bin\Debug\net6.0\HandsOnConditionalStatments.deps.json
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\bin\Debug\net6.0\HandsOnConditionalStatments.runtimeconfig.json
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\bin\Debug\net6.0\HandsOnConditionalStatments.dll
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\bin\Debug\net6.0\HandsOnConditionalStatments.pdb
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\obj\Debug\net6.0\HandsOnConditionalStatments.dll
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\obj\Debug\net6.0\refint\HandsOnConditionalStatments.dll
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\obj\Debug\net6.0\HandsOnConditionalStatments.pdb
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\obj\Debug\net6.0\HandsOnConditionalStatments.genruntimeconfig.cache
+D:\Trainings\Virtusa\Virtusa-Codebase\C#\HandsOn\HandsOnConditionalStatments\obj\Debug\net6.0\ref\HandsOnConditionalStatments.dll

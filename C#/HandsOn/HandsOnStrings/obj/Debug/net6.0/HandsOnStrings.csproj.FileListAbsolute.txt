@@ -1,0 +1,15 @@
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.csproj.AssemblyReference.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.AssemblyInfoInputs.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.AssemblyInfo.cs
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.csproj.CoreCompileInputs.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.exe
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.deps.json
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.runtimeconfig.json
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.dll
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\bin\Debug\net6.0\HandsOnStrings.pdb
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.dll
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\refint\HandsOnStrings.dll
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.pdb
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\HandsOnStrings.genruntimeconfig.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnStrings\obj\Debug\net6.0\ref\HandsOnStrings.dll
