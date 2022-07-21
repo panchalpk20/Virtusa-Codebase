@@ -1,0 +1,15 @@
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\bin\Debug\net6.0\HandsOnMethodParameterModifiers.exe
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\bin\Debug\net6.0\HandsOnMethodParameterModifiers.deps.json
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\bin\Debug\net6.0\HandsOnMethodParameterModifiers.runtimeconfig.json
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\bin\Debug\net6.0\HandsOnMethodParameterModifiers.dll
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\bin\Debug\net6.0\HandsOnMethodParameterModifiers.pdb
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\obj\Debug\net6.0\HandsOnMethodParameterModifiers.csproj.AssemblyReference.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\obj\Debug\net6.0\HandsOnMethodParameterModifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\obj\Debug\net6.0\HandsOnMethodParameterModifiers.AssemblyInfoInputs.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\obj\Debug\net6.0\HandsOnMethodParameterModifiers.AssemblyInfo.cs
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\obj\Debug\net6.0\HandsOnMethodParameterModifiers.csproj.CoreCompileInputs.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\obj\Debug\net6.0\HandsOnMethodParameterModifiers.dll
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\obj\Debug\net6.0\refint\HandsOnMethodParameterModifiers.dll
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\obj\Debug\net6.0\HandsOnMethodParameterModifiers.pdb
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\obj\Debug\net6.0\HandsOnMethodParameterModifiers.genruntimeconfig.cache
+D:\JPMC\JPMC-CODEBASE\C#\HandsOn\HandsOnMethodParameterModifiers\obj\Debug\net6.0\ref\HandsOnMethodParameterModifiers.dll
