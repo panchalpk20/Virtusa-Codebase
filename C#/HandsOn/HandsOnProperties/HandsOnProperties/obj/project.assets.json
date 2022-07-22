@@ -9,23 +9,22 @@
   },
   "packageFolders": {
     "C:\\Users\\santhosh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Clients\\MindMajix\\Batch-06-11\\Class4\\HandsOnProperties\\HandsOnProperties\\HandsOnProperties.csproj",
+      "projectUniqueName": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnProperties\\HandsOnProperties\\HandsOnProperties.csproj",
       "projectName": "HandsOnProperties",
-      "projectPath": "D:\\Clients\\MindMajix\\Batch-06-11\\Class4\\HandsOnProperties\\HandsOnProperties\\HandsOnProperties.csproj",
+      "projectPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnProperties\\HandsOnProperties\\HandsOnProperties.csproj",
       "packagesPath": "C:\\Users\\santhosh\\.nuget\\packages\\",
-      "outputPath": "D:\\Clients\\MindMajix\\Batch-06-11\\Class4\\HandsOnProperties\\HandsOnProperties\\obj\\",
+      "outputPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnProperties\\HandsOnProperties\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\santhosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

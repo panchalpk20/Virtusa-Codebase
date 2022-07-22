@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JPMC\\JPMC-CODEBASE\\C#\\HandsOn\\HandsOnConstructors\\HandsOnConstructors.csproj": {}
+    "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConstructors\\HandsOnConstructors.csproj": {}
   },
   "projects": {
-    "D:\\JPMC\\JPMC-CODEBASE\\C#\\HandsOn\\HandsOnConstructors\\HandsOnConstructors.csproj": {
+    "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConstructors\\HandsOnConstructors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JPMC\\JPMC-CODEBASE\\C#\\HandsOn\\HandsOnConstructors\\HandsOnConstructors.csproj",
+        "projectUniqueName": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConstructors\\HandsOnConstructors.csproj",
         "projectName": "HandsOnConstructors",
-        "projectPath": "D:\\JPMC\\JPMC-CODEBASE\\C#\\HandsOn\\HandsOnConstructors\\HandsOnConstructors.csproj",
-        "packagesPath": "C:\\Users\\SANTHOSH\\.nuget\\packages\\",
-        "outputPath": "D:\\JPMC\\JPMC-CODEBASE\\C#\\HandsOn\\HandsOnConstructors\\obj\\",
+        "projectPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConstructors\\HandsOnConstructors.csproj",
+        "packagesPath": "C:\\Users\\santhosh\\.nuget\\packages\\",
+        "outputPath": "D:\\Trainings\\Virtusa\\Virtusa-Codebase\\C#\\HandsOn\\HandsOnConstructors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\SANTHOSH\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\santhosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

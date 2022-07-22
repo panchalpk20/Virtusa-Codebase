@@ -10,7 +10,9 @@ namespace HandsOnProperties
         public int EmployeeId
         {
             get { return employeeId; } //get always return value of private variable using return
-            set { employeeId = value; } //set value to private variable at runtime using property
+            set { if(value>0)
+                    employeeId = value;
+                        } //set value to private variable at runtime using property
         }
         //property for employeeName
         public string EmployeeName
@@ -28,7 +30,7 @@ namespace HandsOnProperties
         static void Main(string[] args)
         {
             Employee e1 = new Employee();
-            e1.EmployeeId = 1989;
+            e1.EmployeeId = -1989;
             e1.EmployeeName = "Mark";
             e1.Details();
             Employee e2 = new Employee();

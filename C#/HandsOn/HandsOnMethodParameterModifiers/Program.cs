@@ -33,6 +33,7 @@ namespace HandsOnMethodModifiers
             int b = 20;
             int c = 0;
             Add(a, b, ref c);
+            Console.WriteLine(c); //30
 
         }
     }
