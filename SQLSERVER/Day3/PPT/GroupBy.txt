@@ -1,0 +1,12 @@
+Group by Statement
+----------------
+The Group by statement groups the rows that have same values
+ex:find no of customers in each city
+find no of employees in each dept
+The Group by used with aggregate functions (Count,MAX,MIN,SUM)
+
+select col1,col2 from table1
+where <Condtion>
+Group by col1,col2
+Having <Condition>
+Order by <Condition>

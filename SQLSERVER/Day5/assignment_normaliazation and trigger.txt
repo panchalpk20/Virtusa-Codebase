@@ -1,0 +1,7 @@
+What is Normalization
+What are the Advantages of Normaliaztion
+What are the typed of Normalization
+Describe Normalization Type
+
+Create AuditDelete table for Employee
+Using Delete Trigger add Delete Employee details to AuditDelete table.

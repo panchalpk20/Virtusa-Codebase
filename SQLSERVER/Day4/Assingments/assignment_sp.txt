@@ -1,0 +1,1 @@
+Create a procedure GetAge and accept DOB as input and print current age in years.

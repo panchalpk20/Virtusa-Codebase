@@ -1,0 +1,9 @@
+--insert
+inert into table_name values(val1,val2,'val3') 'to insert all column values
+insert into table_name(col1,col2) values('val1','val2') 'add value to specific columns
+--delete(to delete record in a table)
+delete from table_name where condition
+
+--update(to update column values in one or multiple rows)
+update table_name set col_name=value,col_name=value where condition
+
